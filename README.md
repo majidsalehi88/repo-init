@@ -9,4 +9,4 @@ repo
 - chmod a+rx ~/.bin/repo
 
 # Setting python xxx as default on Linux
--sudo update-alternatives --config python
+- sudo update-alternatives --config python
