@@ -1,5 +1,9 @@
+# set proxy & unset proxy 
+- set proxy commond : export http_proxy=127.0.0.1:8889
+- unset proxy commond : unset http_proxy
+- chek proxy commond : wget www.google.com
+  
 # repo-init
-repo
 - git clone https://gerrit.googlesource.com/git-repo
 - cd git-repo
 - git reset --hard v1.13.11
