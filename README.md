@@ -14,3 +14,6 @@
 
 # Setting python xxx as default on Linux
 - sudo update-alternatives --config python
+
+# Replace git:// with https://
+git config --global url."https://".insteadOf git://
